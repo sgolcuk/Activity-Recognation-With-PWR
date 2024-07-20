@@ -10,3 +10,8 @@
 | 𝒓_𝒂 : Aktivite Etiketleme Eşik Değeri        | 2s               |
 | 𝒓_𝒂𝒚: Aktivite Yok Etiketleme Eşik Değeri    | 3.9s             |
 | s : Kaydırma Parametresi | 1s               |
+
+S. Gölcük, F. Gürkan, N. Kahraman (2024, Mayıs). “Enhancing Passive
+Wi-Fi Sensor Data for Improved Activity Recognition.” In Proceedings of
+32st Signal Processing and Communications Applications Conference (SIU),
+(s. 1-4).
