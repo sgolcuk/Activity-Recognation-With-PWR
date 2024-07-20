@@ -7,6 +7,6 @@
 | Batch Size                     | 16               |
 | Image Size                     | 3x200x200        |
 | Number Of Class                | 7                |
-| 𝒓_𝒂 : Activity Threshold        | 2s               |
-| 𝒓_𝒂𝒚: No Activity Threshold     | 3.9s             |
-| s : Shifting(Stride) Parameter | 1s               |
+| 𝒓_𝒂 : Aktivite Etiketleme Eşik Değeri        | 2s               |
+| 𝒓_𝒂𝒚: Aktivite Yok Etiketleme Eşik Değeri    | 3.9s             |
+| s : Kaydırma Parametresi | 1s               |
