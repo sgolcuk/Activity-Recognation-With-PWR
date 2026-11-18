@@ -1,5 +1,5 @@
 # Activity-Recognation-With-PWR
-You can access models from drive [link](https://drive.google.com/drive/folders/175UUrHH-aMct0k26223URlil7df4RBSY?usp=drive_link) created using [OperaNet](https://www.nature.com/articles/s41597-022-01573-2)PWR data 
+You can access models from drive [link](https://drive.google.com/drive/folders/175UUrHH-aMct0k26223URlil7df4RBSY?usp=drive_link) created using [OperaNet](https://www.nature.com/articles/s41597-022-01573-2) PWR data 
 
 | Parameter                      | Value            |
 |--------------------------------|------------------|
