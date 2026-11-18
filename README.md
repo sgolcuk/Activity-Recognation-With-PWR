@@ -1,17 +1,17 @@
 # Activity-Recognation-With-PWR
 [OperaNet](https://www.nature.com/articles/s41597-022-01573-2) PWR verisi kullanılarak oluşturulan modellere [buradan](https://drive.google.com/drive/folders/175UUrHH-aMct0k26223URlil7df4RBSY?usp=drive_link) ulaşabilirsiniz.
-| Parametre                      | Değer            |
+| Parameter                      | Value            |
 |--------------------------------|------------------|
 | Epoch                          | 100              |
-| Öğrenme Oranı                  | 0.0005           |
-| Batch Büyüklüğü                     | 16               |
-| Giriş Görüntü Boyutu                     | 3x200x200        |
-| Sınıf Sayısı                | 7                |
-| 𝒓_𝒂 : Aktivite Etiketleme Eşik Değeri        | 2s               |
-| 𝒓_𝒂𝒚: Aktivite Yok Etiketleme Eşik Değeri    | 3.9s             |
-| s : Kaydırma Parametresi | 1s               |
+| Learning Rate                | 0.0005           |
+| Batch Size                    | 16               |
+| Input Size                     | 3x200x200        |
+| #of clasess               | 7                |
+| 𝒓_𝒂 :         | 2s               |
+| 𝒓_𝒂𝒚:     | 3.9s             |
+| s :  | 1s               |
 
-S. Gölcük, F. Gürkan, N. Kahraman (2024, Mayıs). “Enhancing Passive
-Wi-Fi Sensor Data for Improved Activity Recognition.” In Proceedings of
-32st Signal Processing and Communications Applications Conference (SIU),
-(s. 1-4).
+Please if you use our models/codes cite :
+
+S. Gölcük, F. Gürkan, N. Kahraman. “Enhancement for Wi-Fi Sensor-Based Human Activity
+Recognition and Edge Computing.” 
